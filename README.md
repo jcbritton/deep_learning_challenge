@@ -25,24 +25,24 @@ The purpose of this analysis was to develop and evaluate a neural network model 
     - A single output neuron with sigmoid activation
 
 - **Model Performance**:
-  - Accuracy: 0.7304 (73.04%)
-  - Loss: 0.5715
+  - Accuracy: 0.7313 (73.13%)
+  - Loss: 0.5701
 
 - **Target Performance**:
   - The target accuracy was 75%.
-  - The model fell short of this goal by approximately 1.96 percentage points.
+  - The model fell short of this goal by approximately 1.87 percentage points.
 
 - **Steps Taken to Improve Performance**:
   - Specific steps taken to imporove the model's accuracy include:
     - Adjusting the number of layers and neurons
-    - Trying different activation functions
+    - Trying different activation functions in different layers
     - Increasing the number of epochs
     - Adjusting the batch size
     - Modifying which columns were included or excluded from the original dataset. 
 
 ## Summary
 
-The deep learning model achieved an accuracy of 73.07% on the classification task, falling short of the target accuracy of 75% by a small margin. While the model's performance is reasonably good, there's still room for improvement to meet the desired goal. The loss value of 0.5715 suggests that the model's predictions still have a significant margin of error.
+The deep learning model achieved an accuracy of 73.13% on the classification task, falling short of the target accuracy of 75% by a small margin. While the model's performance is reasonably good, there's still room for improvement to meet the desired goal. The loss value of 0.5701 suggests that the model's predictions still have a significant margin of error.
 
 ### Recommendations
 
