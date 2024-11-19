@@ -15,7 +15,7 @@ The purpose of this analysis was to develop and evaluate a neural network model 
   - The features are APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS,	INCOME_AMT, and	SPECIAL_CONSIDERATIONS.
 
 - **Variables Removed**: 
-  - Variables removed included loan ID number (EIN), name of institution applying for loan (NAME), and loan ammount (ASK_AMT).
+  - Variables removed included loan ID number (EIN), name of institution applying for loan (NAME), and later, loan ammount (ASK_AMT).
 
 ### Compiling, Training, and Evaluating the Model
 
