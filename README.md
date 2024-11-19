@@ -26,7 +26,7 @@ The purpose of this analysis was to develop and evaluate a neural network model 
 
 - **Model Performance**:
   - Accuracy: 0.7304 (73.04%)
-  - Loss: 0.5714
+  - Loss: 0.5715
 
 - **Target Performance**:
   - The target accuracy was 75%.
@@ -42,7 +42,7 @@ The purpose of this analysis was to develop and evaluate a neural network model 
 
 ## Summary
 
-The deep learning model achieved an accuracy of 73.07% on the classification task, falling short of the target accuracy of 75% by a small margin. While the model's performance is reasonably good, there's still room for improvement to meet the desired goal. The loss value of 0.5714 suggests that the model's predictions still have a significant margin of error.
+The deep learning model achieved an accuracy of 73.07% on the classification task, falling short of the target accuracy of 75% by a small margin. While the model's performance is reasonably good, there's still room for improvement to meet the desired goal. The loss value of 0.5715 suggests that the model's predictions still have a significant margin of error.
 
 ### Recommendations
 
